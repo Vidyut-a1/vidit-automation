@@ -1,4 +1,5 @@
 # AI Lead Scoring & Routing Automation (n8n)
+![Workflow Diagram](workflow.png)
 
 ## Problem
 Incoming inquiries from forms and campaigns were manually reviewed, causing slow responses and missed high-intent prospects.
