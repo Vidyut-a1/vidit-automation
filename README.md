@@ -31,17 +31,17 @@ I build AI-powered automation systems that help businesses eliminate repetitive 
 
 ## 📂 Featured Projects
 
-### 🎯 AI Lead Scoring & Routing System
-Automatically evaluates incoming inquiries, assigns priority levels, and routes them to the right destination based on custom business rules.
-- **Tech:** n8n, AI models, CRM, Slack  
-- **Focus:** Faster prioritization and reduced manual review  
-- 📌 *Repository coming soon*
+### 🎯 AI Lead Scoring & Routing Automation
+Automatically evaluates incoming inquiries, assigns priority, and routes them to the right destination.
+- **Tech:** n8n, OpenAI, Webhooks, Slack, CRM
+- **Impact:** Faster response times and zero missed high-value inquiries
+- 👉 [View Project](projects/ai-lead-scoring-routing.md)
 
-### 📧 Smart Email Inbox Automation
-Processes high-volume inboxes into short summaries with priority tagging and automated routing.
-- **Tech:** Make, AI models, Gmail, Google Sheets  
-- **Focus:** Reducing daily inbox overload  
-- 📌 *Repository coming soon*
+### 📧 AI Email Inbox Automation
+Summarizes incoming emails, assigns priority, and generates actionable digests.
+- **Tech:** Make, OpenAI, Gmail API, Google Sheets
+- **Impact:** Major reduction in inbox processing time
+- 👉 [View Project](projects/ai-email-inbox-automation.md)
 
 ### 🗂️ Multi-Channel Inquiry Organization System
 Aggregates inquiries from multiple channels into a single, organized workflow with tagging and enrichment.
